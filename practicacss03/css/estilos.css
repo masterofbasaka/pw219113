@@ -1,0 +1,146 @@
+body{
+	font-size: 16px; /*1em*/
+	min-width: 1025px;	
+	max-width: 1024px;
+	margin: 0px auto;
+}
+header{
+	background: #f0f0f0;
+	padding-bottom: 20px;
+}
+header input{
+	width: 10%;
+	float: left;
+	margin-top: 10px;
+	margin-left: 81px;
+
+}
+#primeraseccion{
+	border: 1px lightgrey;
+	background: #2b2b2b;
+	border-bottom: 1px solid lightgrey;
+}
+#primeraseccion article{
+	vertical-align: top;
+	display: inline-block;
+	width: 19%;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	padding-top: 20px;
+	margin-left: -3.9px;
+	padding-left: 5px;
+
+
+}
+#segundaseccion{
+
+	background: #2b2b2b;
+	padding: 10px;
+}
+#segundaseccion img{
+	width: 27.5%;
+	display: inline-block;
+	padding-bottom: 20px;
+	border-bottom: 1px dashed lightgrey;
+}
+
+#terceraseccion{
+	background:#2b2b2b;
+}
+#terceraseccion article{
+	width: 25%;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 65px;
+}
+#red{
+	margin-left:  30px;
+	
+}
+#verde{
+	margin-left: 20px;
+}
+#blanco{
+	margin-left: 100px;
+}
+#secc01art01{
+	margin-right: 20px;
+}
+#secc01art01 ul {
+	color: lightgrey;
+	list-style: none;
+	margin-left: 30px;
+	margin-top: 110px;
+}
+#secc01art02{
+	background: #b4d052;
+}
+#secc01art03{
+	background: #545454;
+}
+#secc01art04{
+	background: #d42d3f;
+}
+#secc01art05{
+	background: #e4e4e4;
+}
+#menu{
+	position: relative;
+	width: 80%;
+	margin-left: 20px;
+}
+#gulogo{
+	position: relative;
+	float: right;
+	width: 90%;
+}
+#uno{
+	margin-top: 80px;
+	background: #90ac38;
+}
+#dos{
+	margin-top: 42px;
+	background: #444444;
+}
+#tres{
+	margin-top: 50px;
+	background:#be2334; 
+}
+#cuatro{
+	margin-top: 42px;
+	background: #c6c5c5;
+}
+.colorblanco{
+	color: white;
+}
+.colorgris{
+	color: lightgrey;
+}
+.colorgrisnegro{
+	color: darkgrey;
+}
+.colorazul{
+	color: blue;
+}
+.nito{
+	font-weight: bold;
+}
+.letramediana{
+	font-size: 0.8em;
+
+}
+.letragrande{
+	font-size: 1.5em;
+}
+.hue{
+	float: right;
+	margin-top: 15px;
+}
+.transparente{
+	position: relative;
+	float: right;
+	width: 25px;
+	height: 25px;
+	text-align: center;
+
+}
