@@ -1,0 +1,14 @@
+
+@font-face{
+	font-family: Dosis;
+	src:url("Dosis/Dosis-Bold.ttf");
+}
+
+
+
+#textoreferenciado{
+	font-family: 'Roboto', sans-serif;
+}
+#textodescargado{
+	font-family: 'Dosis',sans-serif;
+}
