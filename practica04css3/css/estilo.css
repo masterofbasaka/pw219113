@@ -1,0 +1,144 @@
+body{
+	font-size: 16px; /*1em*/
+	min-width: 1024px;	
+	max-width: 1024px;
+	margin: 0px auto;
+}
+header{
+
+	border-bottom: 2px lightgray dashed;
+	padding-bottom: 20px;
+}
+header article{
+	vertical-align: top;
+	display: inline-block;
+}
+
+header  article nav ul li{
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 10px;
+	font-weight: bold;
+	margin-top:20px; 
+}
+#primeraseccion{
+	margin-top: 20px;
+}
+#primeraseccion article{
+	display: inline-block;
+	vertical-align: top;
+
+}
+#segundaseccion{
+	padding-bottom: 30px;
+}
+#segundaseccion article{
+	display: inline-block;
+	vertical-align: top;
+}
+#terceraseccion article{
+	display: inline-block;
+	vertical-align: top;
+}
+
+#secc01art01{
+	width: 50%;
+}
+#secc01art02{
+	width: 40%;
+}
+#secc01art01art01{
+	
+
+	width: 100%;
+	border-bottom: 2px lightgray dashed;
+}
+#secc01art01art02 img{
+
+}
+#secc03art01{
+	margin-right: 20px;
+}
+#secc03art02{
+	margin-right: 20px;
+}
+#secc03art03{
+	margin-right: 20px;
+}
+#secc03art04{
+	margin-right: 20px;
+}
+#secc03art05{
+	margin-right: 20px;
+}
+#years{
+position: relative;
+width: 27%;
+}
+
+#bici{
+	width: 70%;
+	position: relative;
+	margin-right: -320px;
+
+}
+#video1{
+	width: 40%;
+}
+#video2{
+	width: 40%;
+}
+#bike{
+	width: 35%;
+	margin-top: 20px;
+	margin-left: 25px;
+}
+#bandera{
+	width: 6.5%;
+	position: relative;
+	float: right;
+	margin-right: -65px;
+}
+#logo{
+	width: 20%;
+}
+#logorojo{
+	width: 7%;
+	position: relative;
+	float: right;
+	margin-right: 90px;
+}
+#mundo{
+	width: 7%;
+	position: relative;
+	float: right;
+	margin-right: -105px;
+}
+#goto{
+	width: 40%;
+	margin-top: 40px;
+	margin-right: -110px;
+}
+#buy{
+	width: 10%;
+	float: left;
+	margin-top: 90px;
+	margin-left: 100px;
+	
+}
+.letragrande{
+	font-size: 2.8em;
+}
+.letramediana{
+	font-size: 1.0em;
+
+}
+.nito{
+	font-weight: bold;
+}
+.colorgris{
+	color: gray;
+}
+.colorverde{
+	color:lightgreen;
+}
